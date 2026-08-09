@@ -35,6 +35,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
+          # snk corre en Docker y deja dist/ como root: hay que tomar posesión.
+          sudo chown -R "$(id -u):$(id -g)" dist
           cd dist
           git init -q -b output
           git config user.name "github-actions[bot]"
