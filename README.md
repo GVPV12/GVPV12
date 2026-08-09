@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Grecia Valentina
 
-### UI Designer · Web Developer · 3D Artist crafting custom modern & retro-futuristic digital experiences. Merging creativity with programming and logic to create incredible experiences.
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=45&lines=UI+Designer;Web+Developer;3D+Artist;Neon+nostalgia+meets+modern+minimalism)
 
 📍 Based in Caracas &nbsp;|&nbsp; 🌐 Working with clients worldwide
 
@@ -130,6 +130,30 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GVPV12&theme=dark&hide_border=true&background=0D0221&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF&sideLabels=c9c9ff&dates=6fe3ff&currStreakNum=ffffff&sideNums=ffffff)
 
 ![Top Languages](https://github-readme-stats-chi-five-68.vercel.app/api/top-langs/?username=GVPV12&layout=compact&theme=synthwave&hide_border=true&title_color=FF00FF&text_color=c9c9ff&bg_color=0D0221)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GVPV12&bg_color=0D0221&color=c9c9ff&title_color=FF00FF&line=00FFFF&point=FF00FF&area_color=00FFFF&area=true&hide_border=true)
+
+</div>
+
+<br>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GVPV12/GVPV12/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GVPV12/GVPV12/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/GVPV12/GVPV12/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
