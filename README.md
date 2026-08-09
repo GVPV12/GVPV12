@@ -4,7 +4,7 @@
 
 ### UI Designer · Web Developer · 3D Artist crafting retro-futuristic digital experiences 🌆✨
 
-📍 Based in Buenos Aires, Argentina &nbsp;|&nbsp; 🌐 Working with clients worldwide
+📍 Based in Caracas &nbsp;|&nbsp; 🌐 Working with clients worldwide
 
 </div>
 
@@ -97,14 +97,13 @@
 - [**greciavcv**](https://github.com/GVPV12/greciavcv) — my digital CV, built with Astro
 - [**anywhere-healing**](https://github.com/GVPV12/anywhere-healing) / [**anywherehealing**](https://github.com/GVPV12/anywherehealing) — Astro project
 
-> 🔒 Si tenés más repos privados que querés mostrar, pasame el link en vivo o el nombre + una línea de qué son y los sumo.
-
 <br>
 
 <div align="center">
 
 ## 🌐 Connect with me
 
+[![Email](https://img.shields.io/badge/Email-greciavalentinapv@gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=FF6AC1)](mailto:greciavalentinapv@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grevaleart.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=00FFFF)](https://grevaleart.com)
 [![Retro Web](https://img.shields.io/badge/🕹️_Retro_Web-starmoon.nekoweb.org-FF6AC1?style=for-the-badge&logoColor=white)](https://starmoon.nekoweb.org/)
 [![Contra](https://img.shields.io/badge/Contra-@greciavalentina__-1C1E2B?style=for-the-badge&logoColor=B967FF)](https://contra.com/greciavalentina_)
@@ -139,6 +138,6 @@
 
 <div align="center">
 
-*"I'm in love with 80s/90s/Y2K neon nostalgia 🌴💾 — but just as comfortable building clean, modern, minimalist work. That range is where most of my clients find me."*
+*"I'm in love with 80s/90s/Y2K neon nostalgia 🌴💾 . Also comfortable building clean, modern, minimalist work. That range is where most of my clients find me."*
 
 </div>
