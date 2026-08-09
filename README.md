@@ -25,6 +25,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1C1E2B?style=for-the-badge&logo=css3&logoColor=00FFFF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
+**Game Dev**
+
+![Phaser](https://img.shields.io/badge/🎮_Phaser-1C1E2B?style=for-the-badge&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-FF6AC1?style=for-the-badge&logo=godotengine&logoColor=white)
+
 **CMS & E-commerce**
 
 ![WordPress](https://img.shields.io/badge/WordPress-1C1E2B?style=for-the-badge&logo=wordpress&logoColor=00FFFF)
@@ -120,11 +125,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GVPV12&show_icons=true&theme=synthwave&hide_border=true&title_color=FF6AC1&icon_color=00FFFF&text_color=c9c9ff&bg_color=1a1a2e)
+![GitHub Stats](https://github-readme-stats-chi-five-68.vercel.app/api?username=GVPV12&show_icons=true&theme=synthwave&hide_border=true&title_color=FF6AC1&icon_color=00FFFF&text_color=c9c9ff&bg_color=1a1a2e)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GVPV12&theme=dark&hide_border=true&background=1a1a2e&ring=FF6AC1&fire=00FFFF&currStreakLabel=FF6AC1&sideLabels=c9c9ff&dates=8a8ad1&currStreakNum=ffffff&sideNums=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GVPV12&layout=compact&theme=synthwave&hide_border=true&title_color=FF6AC1&text_color=c9c9ff&bg_color=1a1a2e)
+![Top Languages](https://github-readme-stats-chi-five-68.vercel.app/api/top-langs/?username=GVPV12&layout=compact&theme=synthwave&hide_border=true&title_color=FF6AC1&text_color=c9c9ff&bg_color=1a1a2e)
 
 </div>
 
