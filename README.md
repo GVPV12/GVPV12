@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Grecia Valentina
 
-### UI Designer · Web Developer · 3D Artist crafting retro-futuristic digital experiences 🌆✨
+### UI Designer · Web Developer · 3D Artist crafting retro-futuristic and custom modern digital experiences 🌆✨
 
 📍 Based in Caracas &nbsp;|&nbsp; 🌐 Working with clients worldwide
 
@@ -16,40 +16,40 @@
 
 **Frontend & Frameworks**
 
-![Astro](https://img.shields.io/badge/Astro-00E5FF?style=for-the-badge&logo=astro&logoColor=FF5D01)
-![React](https://img.shields.io/badge/React-FF00C8?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00E5FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF00C8?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-00E5FF?style=for-the-badge&logo=vite&logoColor=B967FF)
-![HTML5](https://img.shields.io/badge/HTML5-00E5FF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF00C8?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FF00C8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-66FFFF?style=for-the-badge&logo=astro&logoColor=FF5D01)
+![React](https://img.shields.io/badge/React-FFB0E6?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-66FFFF?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB0E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-66FFFF?style=for-the-badge&logo=vite&logoColor=B967FF)
+![HTML5](https://img.shields.io/badge/HTML5-FFB0E6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-66FFFF?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFB0E6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Game Dev**
 
-![Phaser](https://img.shields.io/badge/🎮_Phaser-00E5FF?style=for-the-badge&logoColor=0D0221)
-![Godot](https://img.shields.io/badge/Godot-FF00C8?style=for-the-badge&logo=godotengine&logoColor=white)
+![Phaser](https://img.shields.io/badge/🎮_Phaser-66FFFF?style=for-the-badge&logoColor=0D0221)
+![Godot](https://img.shields.io/badge/Godot-FFB0E6?style=for-the-badge&logo=godotengine&logoColor=white)
 
 **CMS & E-commerce**
 
-![WordPress](https://img.shields.io/badge/WordPress-FF00C8?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-00E5FF?style=for-the-badge&logo=elementor&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-FF00C8?style=for-the-badge&logo=shopify&logoColor=95BF47)
+![WordPress](https://img.shields.io/badge/WordPress-FFB0E6?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-66FFFF?style=for-the-badge&logo=elementor&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-FFB0E6?style=for-the-badge&logo=shopify&logoColor=95BF47)
 
 **Backend & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-FF00C8?style=for-the-badge&logo=node.js&logoColor=00FF7F)
-![Supabase](https://img.shields.io/badge/Supabase-00E5FF?style=for-the-badge&logo=supabase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-FF00C8?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-FF00C8?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FFB0E6?style=for-the-badge&logo=node.js&logoColor=00FF7F)
+![Supabase](https://img.shields.io/badge/Supabase-66FFFF?style=for-the-badge&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-FFB0E6?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-66FFFF?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-FFB0E6?style=for-the-badge&logo=github&logoColor=white)
 
 **Design & 3D**
 
-![Figma](https://img.shields.io/badge/Figma-00E5FF?style=for-the-badge&logo=figma&logoColor=B967FF)
-![Blender](https://img.shields.io/badge/Blender-FF00C8?style=for-the-badge&logo=blender&logoColor=F5792A)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-00E5FF?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-FF00C8?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-66FFFF?style=for-the-badge&logo=figma&logoColor=B967FF)
+![Blender](https://img.shields.io/badge/Blender-FFB0E6?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-66FFFF?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-FFB0E6?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
 
@@ -108,14 +108,14 @@
 
 ## 🌐 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-FF00C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greciavalentinapv@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0D0221)](https://grevaleart.com)
-[![Retro Web](https://img.shields.io/badge/🕹️_Retro_Web-FF00C8?style=for-the-badge&logoColor=white)](https://starmoon.nekoweb.org/)
-[![Contra](https://img.shields.io/badge/Contra-00E5FF?style=for-the-badge&logoColor=0D0221)](https://contra.com/greciavalentina_)
+[![Email](https://img.shields.io/badge/Email-FFB0E6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greciavalentinapv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-66FFFF?style=for-the-badge&logo=googlechrome&logoColor=0D0221)](https://grevaleart.com)
+[![Retro Web](https://img.shields.io/badge/🕹️_Retro_Web-FFB0E6?style=for-the-badge&logoColor=white)](https://starmoon.nekoweb.org/)
+[![Contra](https://img.shields.io/badge/Contra-66FFFF?style=for-the-badge&logoColor=0D0221)](https://contra.com/greciavalentina_)
 
 ## 💜 Support my work
 
-[![ko-fi](https://img.shields.io/badge/Ko--fi-FF00C8?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/grevaleart)
+[![ko-fi](https://img.shields.io/badge/Ko--fi-FFB0E6?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/grevaleart)
 
 </div>
 
@@ -125,11 +125,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-chi-five-68.vercel.app/api?username=GVPV12&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true&title_color=FF00C8&icon_color=00FFFF&text_color=c9c9ff&bg_color=0D0221)
+![GitHub Stats](https://github-readme-stats-chi-five-68.vercel.app/api?username=GVPV12&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true&title_color=FFB0E6&icon_color=00FFFF&text_color=c9c9ff&bg_color=0D0221)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GVPV12&theme=dark&hide_border=true&background=0D0221&ring=FF00C8&fire=00FFFF&currStreakLabel=FF00C8&sideLabels=c9c9ff&dates=6fe3ff&currStreakNum=ffffff&sideNums=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GVPV12&theme=dark&hide_border=true&background=0D0221&ring=FFB0E6&fire=00FFFF&currStreakLabel=FFB0E6&sideLabels=c9c9ff&dates=6fe3ff&currStreakNum=ffffff&sideNums=ffffff)
 
-![Top Languages](https://github-readme-stats-chi-five-68.vercel.app/api/top-langs/?username=GVPV12&layout=compact&theme=synthwave&hide_border=true&title_color=FF00C8&text_color=c9c9ff&bg_color=0D0221)
+![Top Languages](https://github-readme-stats-chi-five-68.vercel.app/api/top-langs/?username=GVPV12&layout=compact&theme=synthwave&hide_border=true&title_color=FFB0E6&text_color=c9c9ff&bg_color=0D0221)
 
 </div>
 
