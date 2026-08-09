@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Grecia Valentina
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=45&lines=UI+Designer;Web+Developer;3D+Artist;Neon+nostalgia+meets+modern+minimalism)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=45&lines=UI+Designer;Web+Developer;3D+Artist;Where+creativity+meets+programming)
 
 📍 Based in Caracas &nbsp;|&nbsp; 🌐 Working with clients worldwide
 
@@ -92,9 +92,9 @@
 
 **✨ AETHERIA — full brand system & product (private repos)**
 
-- [Producto / dashboard](https://aetheriaeco.netlify.app/) — "Sistema Eco Nube", la app cloud-sostenible en sí
-- [Landing page](https://aetheriaeconube.netlify.app/) — landing cinematográfica de scroll: sostenibilidad, rendimiento, escalabilidad
-- [Brand book / manual de marca](https://aetheria-manual-de-marca.netlify.app/) — sistema de identidad completo: logo, paleta, tipografía, componentes, moodboard y guidelines, con ADN neón-futurista/synthwave
+- [Product / dashboard](https://aetheriaeco.netlify.app/) — "Sistema Eco Nube", the sustainable-cloud app itself
+- [Landing page](https://aetheriaeconube.netlify.app/) — cinematic scroll-driven landing: sustainability, performance, scalability
+- [Brand book](https://aetheria-manual-de-marca.netlify.app/) — full identity system: logo, palette, typography, components, moodboard and guidelines, with a neon-futuristic/synthwave DNA
 
 **🌐 Personal & client sites**
 
@@ -136,10 +136,6 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GVPV12&bg_color=0D0221&color=c9c9ff&title_color=FF00FF&line=00FFFF&point=FF00FF&area_color=00FFFF&area=true&hide_border=true)
-
-</div>
-
-<br>
 
 </div>
 
