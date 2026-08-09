@@ -76,7 +76,6 @@
 
 - [**aqua-frutiger-aero-blog**](https://github.com/GVPV12/aqua-frutiger-aero-blog) — Frutiger Aero/Y2K static site template, pure HTML/CSS/JS, built for Nekoweb & Neocities
 - [**purple-frutigeraero**](https://github.com/GVPV12/purple-frutigeraero) — purple Frutiger Aero static site template, same indie-web spirit
-- [**solarpunk-repositorio**](https://github.com/GVPV12/solarpunk-repositorio) — static infographic-style page about Solarpunk and its influence
 
 **🛠️ Productivity & tools**
 
@@ -100,7 +99,7 @@
 
 - [**gvpv12.github.io**](https://github.com/GVPV12/gvpv12.github.io) — personal digital garden
 - [**greciavcv**](https://github.com/GVPV12/greciavcv) — my digital CV, built with Astro
-- [**anywhere-healing**](https://github.com/GVPV12/anywhere-healing) / [**anywherehealing**](https://github.com/GVPV12/anywherehealing) — Astro project
+- [**anywhere-healing**](https://github.com/GVPV12/anywhere-healing) — Client Astro project
 
 <br>
 
