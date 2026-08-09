@@ -157,6 +157,6 @@
 
 <div align="center">
 
-*"I'm in love with 80s/90s/Y2K neon nostalgia 🌴💾 . Also comfortable building clean, modern, minimalist work. That range is where most of my clients find me."*
+*I'm in love with 80s/90s/Y2K neon nostalgia 🌴💾 . Also comfortable building clean, modern, minimalist work. That range is where most of my clients find me.*
 
 </div>
