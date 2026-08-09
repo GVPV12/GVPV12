@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Grecia Valentina
 
-### UI Designer · Web Developer · 3D Artist crafting retro-futuristic and custom modern digital experiences. Merging creativity with programming and logic to create incredible experiences.
+### UI Designer · Web Developer · 3D Artist crafting custom modern & retro-futuristic digital experiences. Merging creativity with programming and logic to create incredible experiences.
 
 📍 Based in Caracas &nbsp;|&nbsp; 🌐 Working with clients worldwide
 
