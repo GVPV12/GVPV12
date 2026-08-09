@@ -16,14 +16,14 @@
 
 **Frontend & Frameworks**
 
-![Astro](https://img.shields.io/badge/Astro-0D0221?style=for-the-badge&logo=astro&logoColor=FF5D01)
-![React](https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-0D0221?style=for-the-badge&logo=vite&logoColor=B967FF)
-![HTML5](https://img.shields.io/badge/HTML5-FF00C8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D0221?style=for-the-badge&logo=css3&logoColor=00FFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D0221?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Astro](https://img.shields.io/badge/Astro-00E5FF?style=for-the-badge&logo=astro&logoColor=FF5D01)
+![React](https://img.shields.io/badge/React-FF00C8?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00E5FF?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF00C8?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-00E5FF?style=for-the-badge&logo=vite&logoColor=B967FF)
+![HTML5](https://img.shields.io/badge/HTML5-00E5FF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF00C8?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FF00C8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Game Dev**
 
@@ -32,23 +32,23 @@
 
 **CMS & E-commerce**
 
-![WordPress](https://img.shields.io/badge/WordPress-0D0221?style=for-the-badge&logo=wordpress&logoColor=00FFFF)
-![Elementor](https://img.shields.io/badge/Elementor-FF00C8?style=for-the-badge&logo=elementor&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-0D0221?style=for-the-badge&logo=shopify&logoColor=95BF47)
+![WordPress](https://img.shields.io/badge/WordPress-FF00C8?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-00E5FF?style=for-the-badge&logo=elementor&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-FF00C8?style=for-the-badge&logo=shopify&logoColor=95BF47)
 
 **Backend & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=node.js&logoColor=00FF7F)
-![Supabase](https://img.shields.io/badge/Supabase-FF00C8?style=for-the-badge&logo=supabase&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0D0221?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=F05032)
+![Node.js](https://img.shields.io/badge/Node.js-FF00C8?style=for-the-badge&logo=node.js&logoColor=00FF7F)
+![Supabase](https://img.shields.io/badge/Supabase-00E5FF?style=for-the-badge&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-FF00C8?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-FF00C8?style=for-the-badge&logo=github&logoColor=white)
 
 **Design & 3D**
 
-![Figma](https://img.shields.io/badge/Figma-0D0221?style=for-the-badge&logo=figma&logoColor=B967FF)
-![Blender](https://img.shields.io/badge/Blender-0D0221?style=for-the-badge&logo=blender&logoColor=F5792A)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-0D0221?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Figma](https://img.shields.io/badge/Figma-00E5FF?style=for-the-badge&logo=figma&logoColor=B967FF)
+![Blender](https://img.shields.io/badge/Blender-FF00C8?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-00E5FF?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-FF00C8?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
