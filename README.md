@@ -58,7 +58,6 @@
 ## 🚀 Currently building
 
 - 🌙 **Starmoon** — my hand-coded vaporwave OS-simulator personal site, always evolving
-- 👾 **Retro Phaser games** — a couple of pixel-art arcade games in the SERPERWAVE universe
 - 🥗 **NutriShare** — a community app for people who want to eat healthy together
 - 📖 **Interactive recipe book** — a food web app where you build your own recipe collection by importing a PDF, a video link, plain text, or images
 - 👗 **Retro dress-up game** — a pixel-art dress-up game with a Y2K soul
@@ -124,17 +123,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-chi-five-68.vercel.app/api?username=GVPV12&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true&title_color=FF00FF&icon_color=00FFFF&text_color=c9c9ff&bg_color=0D0221)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GVPV12&theme=dark&hide_border=true&background=0D0221&ring=FF00FF&fire=00FFFF&currStreakLabel=FF00FF&sideLabels=c9c9ff&dates=6fe3ff&currStreakNum=ffffff&sideNums=ffffff)
 
 ![Top Languages](https://github-readme-stats-chi-five-68.vercel.app/api/top-langs/?username=GVPV12&layout=compact&theme=synthwave&hide_border=true&title_color=FF00FF&text_color=c9c9ff&bg_color=0D0221)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GVPV12&bg_color=0D0221&color=c9c9ff&title_color=FF00FF&line=00FFFF&point=FF00FF&area_color=00FFFF&area=true&hide_border=true)
 
 </div>
 
