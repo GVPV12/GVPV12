@@ -16,39 +16,39 @@
 
 **Frontend & Frameworks**
 
-![Astro](https://img.shields.io/badge/Astro-00FFFF?style=for-the-badge&logo=astro&logoColor=000000)
+![Astro](https://img.shields.io/badge/Astro-FFFFFF?style=for-the-badge&logo=astro&logoColor=000000)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-00FFFF?style=for-the-badge&logo=vite&logoColor=000000)
+![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00FFFF?style=for-the-badge&logo=css3&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Game Dev**
 
-![Phaser](https://img.shields.io/badge/🎮_Phaser-00FFFF?style=for-the-badge&logoColor=000000)
+![Phaser](https://img.shields.io/badge/🎮_Phaser-FFFFFF?style=for-the-badge&logoColor=000000)
 ![Godot](https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godotengine&logoColor=white)
 
 **CMS & E-commerce**
 
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-00FFFF?style=for-the-badge&logo=elementor&logoColor=000000)
+![Elementor](https://img.shields.io/badge/Elementor-FFFFFF?style=for-the-badge&logo=elementor&logoColor=000000)
 ![Shopify](https://img.shields.io/badge/Shopify-000000?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Backend & Tools**
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-00FFFF?style=for-the-badge&logo=supabase&logoColor=000000)
+![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=for-the-badge&logo=supabase&logoColor=000000)
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00FFFF?style=for-the-badge&logo=git&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 **Design & 3D**
 
-![Figma](https://img.shields.io/badge/Figma-00FFFF?style=for-the-badge&logo=figma&logoColor=000000)
+![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=000000)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-00FFFF?style=for-the-badge&logo=adobeillustrator&logoColor=000000)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FFFFFF?style=for-the-badge&logo=adobeillustrator&logoColor=000000)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
@@ -107,9 +107,9 @@
 ## 🌐 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greciavalentinapv@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://grevaleart.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://grevaleart.com)
 [![Retro Web](https://img.shields.io/badge/🕹️_Retro_Web-000000?style=for-the-badge&logoColor=white)](https://starmoon.nekoweb.org/)
-[![Contra](https://img.shields.io/badge/Contra-00FFFF?style=for-the-badge&logoColor=000000)](https://contra.com/greciavalentina_)
+[![Contra](https://img.shields.io/badge/Contra-FFFFFF?style=for-the-badge&logoColor=000000)](https://contra.com/greciavalentina_)
 
 ## 💜 Support my work
 
