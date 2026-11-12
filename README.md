@@ -57,10 +57,9 @@
 
 ## 🚀 Currently building
 
-- 🌙 **Starmoon**: my hand-coded vaporwave OS-simulator personal site, always evolving
+- 🌙 **Starmoon**: my vaporwave OS-simulator personal site, always evolving
 - 🥗 **NutriShare**: a community app for people who want to eat healthy together
 - 📖 **Interactive recipe book**: a food web app where you build your own recipe collection by importing a PDF, a video link, plain text, or images
-- 👗 **Retro dress-up game**: a pixel-art dress-up game with a Y2K soul
 
 <br>
 
@@ -73,6 +72,8 @@
 
 **🛠️ Productivity & tools**
 
+- [**braindeck**](https://github.com/GVPV12/braindeck) ([live](https://mybraindeck.netlify.app/)): a web workbench for creators and self-learners: 25+ tools (study plans, screenshot-to-notes OCR, palettes, background removal, PDFs, subtitles, QR, image compression…), 100% in the browser, installable and offline-ready
+- [**convertidor-bcv-web**](https://github.com/GVPV12/convertidor-bcv-web) ([live](https://usdbcv.netlify.app/)): USD/EUR ⇄ Bs converter with the official BCV rate, refreshed every 30 min, with history chart, ES/EN and skins
 - [**focus-time**](https://github.com/GVPV12/focus-time): pixel-art productivity/focus app
 - [**commonplacebook**](https://github.com/GVPV12/commonplacebook): a tracker and digital notebook for everything you consume (books, games, movies) to be more mindful about it
 - [**STARPLAYER**](https://github.com/GVPV12/STARPLAYER): cross-platform music player with a custom tagging system and multiple skins
@@ -83,11 +84,10 @@
 - [**commissioncalculador**](https://github.com/GVPV12/commissioncalculador): desktop app to quickly calculate commissions and percentages
 - [**usdtoves**](https://github.com/GVPV12/usdtoves): desktop currency converter using the official BCV exchange rate (USD ⇄ VES)
 
-**✨ AETHERIA: full brand system & product (private repos)**
+**✨ AETHERIA: sustainable-cloud product (private repos)**
 
 - [Product / dashboard](https://aetheriaeco.netlify.app/): "Sistema Eco Nube", the sustainable-cloud app itself
 - [Landing page](https://aetheriaeconube.netlify.app/): cinematic scroll-driven landing: sustainability, performance, scalability
-- [Brand book](https://aetheria-manual-de-marca.netlify.app/): full identity system: logo, palette, typography, components, moodboard and guidelines, with a neon-futuristic/synthwave DNA
 
 **🌐 Personal & client sites**
 
