@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00BCD4&center=true&vCenter=true&width=600&height=45&lines=UI+Designer;Web+Developer;3D+Artist;Where+creativity+meets+programming)
 
-📍 Based in Caracas &nbsp;|&nbsp; 🌐 Working with clients worldwide
+🌐 Working with clients worldwide
 
 </div>
 
